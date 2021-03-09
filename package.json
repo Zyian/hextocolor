@@ -16,6 +16,8 @@
     "unsplash-js": "^7.0.4"
   },
   "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
     "parcel-bundler": "1.12.3"
   }
 }
